@@ -14,6 +14,7 @@
 
 欢迎使用微信和我联系：KiteCh
 ---
+> 低价云服务器推荐：<a href="https://www.rainyun.com/yuy_" target="_blank">  查看 </a>
 
 首页预览:
 ---
