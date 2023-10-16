@@ -2,7 +2,7 @@
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
 
-演示站： [前端](https://ai.foxitx.com)
+演示站： [前端](https://ai.jiangly.com)
 
 演示站： [后端](https://ai-admin.jiangly.com)
 
@@ -10,7 +10,7 @@
 
 688¥出售整套程序，包含搭建以及后续更新，未来模块不收费
 ---
-注：可自行组团购买，五人组团588一套
+注：可自行组团购买，三人组团588一套
 
 欢迎使用微信和我联系：KiteCh
 ---
